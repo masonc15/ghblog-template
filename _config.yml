@@ -4,7 +4,7 @@ title: My blog
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title
-
+theme: jekyll-theme-cayman
 lsi: true
 paginate: 20
 
